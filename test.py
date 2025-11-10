@@ -1,4 +1,4 @@
 def main():
-	print("Hola mundo")
+	print("Hello mundo")
 if __name__ == '__main__':
 	main()
